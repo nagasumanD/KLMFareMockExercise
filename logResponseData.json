@@ -1,0 +1,1 @@
+[{"requesttype":"http://localhost:8002/airports","responsecode":200,"responsetime":1071},{"requesttype":"http://localhost:8002/airports","responsecode":200,"responsetime":1003},{"requesttype":"http://localhost:8002/fare/","responsecode":200,"responsetime":3617},{"requesttype":"http://localhost:8002/fare/","responsecode":200,"responsetime":1261}]
